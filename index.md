@@ -12,7 +12,7 @@ INSERT HERE GAME CONCEPTS
 ### with upgrades
 - [E] - for climbing if Linda the Spider Hat is unlocked
 - [M1] - for attacking if Baron the Bee Sword is unlocked
-- [space](press) [space](hold) - for glide if Gunther the Ladybug Bagpack
+- [Space] (press) [Space] (hold) - for glide if Gunther the Ladybug Bagpack
 
 ```markdown
 Syntax highlighted code block
