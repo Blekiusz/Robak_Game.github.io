@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+### Game Concept
 
-You can use the [editor on GitHub](https://github.com/Blekiusz/Robak_Game.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+INSERT HERE GAME CONCEPTS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Controlls
 
-### Markdown
+[W][A][S][D] - Character movement
+[Spacebar] - Jumping
+[Mouse] - Camera Movement
+[Shift] - switches from running to walking and reverse
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# with upgrades
+- [E] - for climbing if Linda the Spider Hat is unlocked
+- [M1] - for attacking if Baron the Bee Sword is unlocked
+- [space](press) [space](hold) - for glide if Gunther the Ladybug Bagpack
 
 ```markdown
 Syntax highlighted code block
