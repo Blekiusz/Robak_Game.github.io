@@ -1,15 +1,15 @@
-### Game Concept
+## Game Concept
 
 INSERT HERE GAME CONCEPTS
 
-### Controlls
+## Controlls
 
 [W][A][S][D] - Character movement
 [Spacebar] - Jumping
 [Mouse] - Camera Movement
 [Shift] - switches from running to walking and reverse
 
-# with upgrades
+### with upgrades
 - [E] - for climbing if Linda the Spider Hat is unlocked
 - [M1] - for attacking if Baron the Bee Sword is unlocked
 - [space](press) [space](hold) - for glide if Gunther the Ladybug Bagpack
