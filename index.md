@@ -4,10 +4,10 @@ INSERT HERE GAME CONCEPTS
 
 ## Controlls
 
-[W][A][S][D] - Character movement
-[Spacebar] - Jumping
-[Mouse] - Camera Movement
-[Shift] - switches from running to walking and reverse
+- [W][A][S][D] - Character movement
+- [Spacebar] - Jumping
+- [Mouse] - Camera Movement
+- [Shift] - switches from running to walking and reverse
 
 ### with upgrades
 - [E] - for climbing if Linda the Spider Hat is unlocked
