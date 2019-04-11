@@ -10,6 +10,7 @@ Robak - Shadow of Moledor is a third-person 3D platformer made in Unreal Engine 
 - [Spacebar] - Jumping
 - [Mouse] - Camera Movement
 - [Shift] - switches from running to walking and reverse
+- [P] - Pause menu
 
 ### with upgrades
 - [E] - for climbing if Linda the Spider Hat is unlocked
