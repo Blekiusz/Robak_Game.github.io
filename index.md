@@ -16,5 +16,5 @@ Robak - Shadow of Moledor is a third-person 3D platformer made in Unreal Engine 
 - [M1] - for attacking if Baron the Bee Sword is unlocked
 - [Space] (press) [Space] (hold) - for glide if Gunther the Ladybug Bagpack
 
-##Game Trailer/Demo
+## Game Trailer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVsG1k3KhsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
